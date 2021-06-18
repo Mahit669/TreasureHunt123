@@ -1,1 +1,1 @@
-# TreasureHunt123
+# TREASURE-HUNT
