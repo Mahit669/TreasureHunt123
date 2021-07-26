@@ -3,8 +3,8 @@ var score=0;
 var scary;
 
 function preload() {
-  bg = loadImage("aladdin_cave.jpg");
-  bg2 = loadImage("treasure.jpg");
+  bg = loadImage("images/aladdin_cave.jpg");
+  bg2 = loadImage("images/treasure.jpg");
   scary = loadSound("scary.mp3")
 }
 
